@@ -3,6 +3,7 @@
     "description": "Um construtor de tabelas dinâmico para PHP 8+",
     "version": "1.0.0",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "TabelaBuilder\\": "src/"
@@ -17,10 +18,12 @@
     "require": {
         "php": ">=8.0"
     },
+    
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/juniorpaiva/construct-builder"
         }
     ]
+    
 }
