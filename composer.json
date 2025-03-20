@@ -17,13 +17,8 @@
     ],
     "require": {
         "php": ">=8.0"
-    },
+    }
     
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/juniorpaiva/construct-builder"
-        }
-    ]
+    
     
 }
