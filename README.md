@@ -1,4 +1,4 @@
-# ConstructTable
+# TableBuilder
 
 Uma biblioteca PHP para gerar tabelas HTML dinâmicas de forma simples e organizada.
 
