@@ -1,0 +1,19 @@
+{
+    "name": "juniorpaiva/construct-builder",
+    "description": "Um construtor de tabelas dinâmico para PHP 8+",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "TabelaBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Ivo Paiva",
+            "email": "antonioivo.3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
