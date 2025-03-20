@@ -1,6 +1,7 @@
 {
     "name": "juniorpaiva/construct-builder",
     "description": "Um construtor de tabelas dinâmico para PHP 8+",
+    "version": "1.0.0",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -15,5 +16,11 @@
     ],
     "require": {
         "php": ">=8.0"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/juniorpaiva/construct-builder"
+        }
+    ]
 }
