@@ -1,5 +1,5 @@
 {
-    "name": "juniorpaiva/construct-builder",
+    "name": "juniorpaiva/TableBuilder",
     "description": "Um construtor de tabelas dinâmico para PHP 8+",
     "version": "1.0.0",
     "type": "library",
